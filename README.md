@@ -171,8 +171,8 @@ websites, research papers, and other digital content. The size and diversity of 
 data allow the model to learn grammar, facts, reasoning patterns, and cultural
 nuances. The larger and more diverse the dataset, the better the model can generalize
 and respond across different topics and languages.
-
-<img width="721" height="571" alt="Screenshot 2025-09-16 135648" src="https://github.com/user-attachments/assets/c55151f0-e07a-47d8-8bc2-402dfbe8d058" />
+```
+<img width="721" height="571" alt="Screenshot 2025-09-16 135648" src="https://github.com/user-attachments/assets/39e72fb0-f3b6-4672-addf-e391214563ed" />
 
 2. Deep Learning:
 Deep learning is a branch of machine learning that uses multi-layered neural
