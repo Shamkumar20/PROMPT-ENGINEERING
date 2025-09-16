@@ -64,19 +64,72 @@ the data it was trained on. At its core, it uses machine learning models that le
 probability distributions from massive datasets and then generate fresh outputs—
 such as text, images, or music—that are coherent and realistic.
 Key foundations include:
-~ Representation Learning – teaching models to understand patterns, features,
+```
+- Representation Learning – teaching models to understand patterns, features,
 and structures in data.
-~ Probabilistic Modeling – using likelihood and prediction to generate outputs
+- Probabilistic Modeling – using likelihood and prediction to generate outputs
 that “make sense” in context.
-~ Neural Networks & Deep Learning – especially transformer architectures,
+- Neural Networks & Deep Learning – especially transformer architectures,
 which enable handling long sequences and complex relationships.
-~ Generative Models – such as GANs (Generative Adversarial Networks),
+- Generative Models – such as GANs (Generative Adversarial Networks),
 VAEs (Variational Autoencoders), and LLMs (Large Language Models).
-~ Training Approaches – pre-training on huge datasets, fine-tuning for
+-Training Approaches – pre-training on huge datasets, fine-tuning for
 specific tasks, and reinforcement learning with feedback to align outputs.
-~ In simple terms, Generative AI combines pattern recognition and creativity
+-In simple terms, Generative AI combines pattern recognition and creativity
 simulation, allowing machines not only to process data but to produce new,
 meaningful, and often innovative content.
+```
+## Focusing on Generative AI architectures. (like transformers)
+<img width="574" height="576" alt="Screenshot 2025-09-16 134257" src="https://github.com/user-attachments/assets/cc3f2ba9-198d-48c4-9032-a6ee800b7243" />
+Generative AI relies on powerful architectures that enable machines to learn patterns
+and create new content, with early models like Variational Autoencoders (VAEs)
+and Generative Adversarial Networks (GANs) paving the way for realistic image
+and data generation. The major breakthrough came with Transformers, which use
+self-attention to capture context across long sequences, making them the foundation
+of modern Large Language Models such as GPT and PaLM. Alongside these, newer
+approaches like diffusion models drive high-quality image synthesis, while
+multimodal transformers expand capabilities across text, images, and audio, marking
+a new era of scalable and versatile generative systems.
 
+## Generative AI architecture.
+<img width="782" height="335" alt="Screenshot 2025-09-16 134555" src="https://github.com/user-attachments/assets/a2e1b833-592d-4dec-a864-829e852eaaf9" />
+Generative AI is built on advanced deep learning frameworks that enable machines
+to learn from data and create new outputs. Early models such as Variational
+Autoencoders (VAEs) focused on compressing and reconstructing data, while
+Generative Adversarial Networks (GANs) introduced a generator–discriminator
+setup that produced highly realistic synthetic images. The most impactful
+breakthrough, however, came with Transformers, which use self-attention
+mechanisms to capture context across long sequences of data, making them the
+foundation of Large Language Models (LLMs) like GPT and PaLM. More recent
+innovations include diffusion models for high-quality image generation and
+multimodal transformers that process text, images, and audio together, expanding
+generative AI’s versatility across multiple domains.
+
+### Applications of Generative AI
+The architectural innovations behind generative AI have enabled powerful
+applications across industries:
+```
+ Business – Automating report writing, marketing content, chatbots, and
+decision-support tools.
+ Healthcare – Drafting clinical notes, generating medical images, assisting in
+diagnosis, and supporting drug discovery.
+ Education – Personalized tutoring, automated grading, and summarization of
+study material.
+ Creative Industries – Generating music, art, stories, and design concepts in
+collaboration with humans.
+ Software Development – Assisting with code generation, debugging,
+documentation, and optimization.
+ Media & Entertainment – Creating video scripts, game content, virtual
+characters, and simulations.
+```
+## Generative AI impact of scaling in LLMs
+The evolution of Large Language Models (LLMs) has shown that scaling is one of
+the most important factors behind their remarkable capabilities. As models grow
+in size—measured by the number of parameters—and are trained on larger and
+more diverse datasets using massive computing resources, their performance
+improves significantly. This scaling not only enhances the fluency, coherence, and
+accuracy of outputs but also leads to emergent abilities, where models begin to
+perform tasks they were never directly trained on, such as translation, logical
+reasoning, or solving problems with minimal examples (few-shot learning).
 
 # Result
