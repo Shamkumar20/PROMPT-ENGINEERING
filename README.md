@@ -204,6 +204,7 @@ example, an LLM can be fine-tuned for medical applications, legal document
 analysis, or customer support chatbots. Fine-tuning helps narrow the model’s focus
 and improves accuracy for targeted use cases.
 ```
+```
 # Result
 In conclusion, Generative AI and Large Language Models (LLMs) represent a
 transformative leap in artificial intelligence, built on the foundations of massive
