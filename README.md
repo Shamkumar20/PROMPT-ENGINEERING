@@ -173,7 +173,7 @@ nuances. The larger and more diverse the dataset, the better the model can gener
 and respond across different topics and languages.
 ```
 <img width="721" height="571" alt="Screenshot 2025-09-16 135648" src="https://github.com/user-attachments/assets/39e72fb0-f3b6-4672-addf-e391214563ed" />
-
+```
 2. Deep Learning:
 Deep learning is a branch of machine learning that uses multi-layered neural
 networks to learn complex patterns from data. In the case of LLMs, deep learning
